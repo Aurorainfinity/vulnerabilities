@@ -8,8 +8,8 @@ Two issues were found in nomacs in all versions.  nomacs does not handle the mng
 
 
 # 1.  buffer overflow
-++++++++++++++++++++++++++++++++++++++++++++
-(71c.f7c): Access violation - code c0000005 (first chance)   
+++++++++++++++++++++++++++++++++++++++++++++         
+(71c.f7c): Access violation - code c0000005 (first chance)     
 First chance exceptions are reported before any exception handling. 
 This exception may be expected and handled.  
 eax=00000000 ebx=00000000 ecx=3ffffc38 edx=045d0000 esi=0425fd80 edi=205d1000  
