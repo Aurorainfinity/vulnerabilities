@@ -3,7 +3,7 @@ Two issues were found in XnView in all versions. I tested XnView MP Version 0.96
 
 
 # 1. pict file format,  heap overflow vulnerability
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 (c70.edc): Access violation - code c0000005 (first chance)  
 First chance exceptions are reported before any exception handling.  
 This exception may be expected and handled.  
